@@ -1,5 +1,5 @@
 # Image-processing
-環境 visual studio 2017 + OpenCV 3.1
+環境 visual studio 2015 + OpenCV 2.4
 
 操作功能
 1.把filename改成要開啟的圖片名稱，stainedcell_small或者stainedcell_large
